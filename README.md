@@ -4,7 +4,7 @@
 
 ## Final project -- Simple Vending Machine
 
->This is the final project of the course MPSL, we use STM32 with eclipse IDE to run the project. The vending machine has following features:
+>This is the final project of the course MPSL, we use `STM32` with `Eclipse IDE` to run the project. The vending machine has following features:
 
 * display the current money inserted into the vending machine
 * calculate the remaining money and give it back

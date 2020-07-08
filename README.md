@@ -10,12 +10,14 @@
 * calculate the remaining money and give it back
 * multiple merchandise to choose from by pressing the keypad
 
-###Demo video:
+### Demo video:
 see [Link](https://youtu.be/TQ2Dpd5fmPk)
 
-###Photos:
->vending machine overlook
+### Photos:
+> vending machine overlook
+
   ![image](https://github.com/william0206/MPSL/blob/master/vending_machine.jpg)
 
->the refund mechanism
+> the refund mechanism
+
   ![image](https://github.com/william0206/MPSL/blob/master/refund_mechanism.jpg)

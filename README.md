@@ -1,5 +1,5 @@
 # MPSL
-> Microprocessor Systems Lab `nctu_cs 108_course`
+> Microprocessor Systems Lab `nctu_cs 2019_Fall`
 
 
 ## Final project -- Simple Vending Machine
